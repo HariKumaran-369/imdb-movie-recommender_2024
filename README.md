@@ -106,7 +106,6 @@ Each record contains: `movie_name`, `storyline`.
 1. Clone the repository:
    ```bash
    git clone https://github.com/HariKumaran-369/imdb-movie-recommender_2024
-   cd imdb-movie-recommender
    ```
 
 2. (Optional but recommended) Create a virtual environment:
@@ -145,7 +144,7 @@ Runs a standalone test of the TF-IDF + cosine similarity logic and prints sample
 
 ### Step 4 — Launch the web app
 ```bash
-streamlit run app.py
+run app.py
 ```
 Opens the app in your browser at `http://localhost:8501`. Enter a movie title or a storyline and click **Find Similar Movies** to get the top recommendations.
 
