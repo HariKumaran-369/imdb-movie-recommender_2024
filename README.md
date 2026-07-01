@@ -105,7 +105,8 @@ Each record contains: `movie_name`, `storyline`.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HariKumaran-369/imdb-movie-recommender_2024
+   git clone https://github.com/HariKumaran-369/imdb-movie-recommender_2024.git
+   cd imdb-movie-recommender
    ```
 
 2. (Optional but recommended) Create a virtual environment:
